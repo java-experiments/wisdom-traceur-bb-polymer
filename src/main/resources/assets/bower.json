@@ -1,0 +1,10 @@
+{
+  "name": "wisdom-project",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "polymer": "Polymer/polymer#~0.3.3",
+    "core-elements": "Polymer/core-elements#~0.3.3",
+    "backbone": "~1.1.2"
+  }
+}
