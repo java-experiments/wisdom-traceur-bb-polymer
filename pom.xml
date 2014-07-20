@@ -138,6 +138,7 @@
                 <groupId>org.wisdom-framework</groupId>
                 <artifactId>wisdom-traceur-maven-plugin</artifactId>
                 <version>1.0-SNAPSHOT</version>
+
                 <executions>
                     <execution>
                         <goals>
@@ -145,6 +146,7 @@
                         </goals>
                     </execution>
                 </executions>
+
             </plugin>
 
 
@@ -172,6 +174,7 @@
         </plugins>
     </build>
 
+
     <repositories>
         <repository>
             <id>oss-snapshot</id>
@@ -179,6 +182,7 @@
             <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
         </repository>
     </repositories>
+
     <pluginRepositories>
         <pluginRepository>
             <id>oss-snapshot</id>
@@ -186,5 +190,6 @@
             <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
         </pluginRepository>
     </pluginRepositories>
+
 
 </project>

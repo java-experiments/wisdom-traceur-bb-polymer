@@ -1,4 +1,4 @@
-
+//!ES6
 class Human extends Backbone.Model {
 
   constructor (args) {
